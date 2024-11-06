@@ -9,3 +9,5 @@ Implementing a state vector simulator from scratch and demonstrating familiarity
 
 2)Advanced Simulation using Tensor Multiplication: [here](https://github.com/TejasGIyer/State-vector-simulation-of-quantum-circuits-using-Python/blob/main/QOSF%20Subtask-2.ipynb
 )
+
+3)Sampling Final States from State vector representations: [here](https://github.com/TejasGIyer/State-vector-simulation-of-quantum-circuits-using-Python/blob/main/QOSF%20Bonus%20task.ipynb)
